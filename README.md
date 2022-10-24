@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Smarika Ghimire</h1>
-<h3 align="center">A passionate Software Engineer.</h3>
+<h3 align="center">A passionate Software Engineer</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smarikaghimire&label=Profile%20views&color=0e75b6&style=flat" alt="smarikaghimire" /> </p>
  
 - 🌱 I’m currently learning **Frontend,JS,C++,Cybersecurity**
  
-- 👨‍💻 All of my projects are available at [github.com/smarikaghimire/](github.com/smarikaghimire/)
+- 👨‍💻 All of my projects are available at https://github.com/smarikaghimire?tab=repositories
  
 - 💬 Ask me about **Frontend, software engineering, c++**
  
